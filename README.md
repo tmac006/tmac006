@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Trent McCarthy (tmac006)  
-
 I’m an aspiring software engineer from Lockport, NY with a passion for robotics, education and software development. My experience spans programming in Python, C/C++, and Java; leading an FRC robotics team; and building applications that interact with hardware. I’m eager to apply my analytical skills and collaborate with cross‑functional teams to develop innovative products.  
 
 ## 🎯 Career Objective  
@@ -19,7 +18,7 @@ Aspiring software engineer with experience in Python programming and debugging s
   - Created a Python‑based control application for managing hardware operations on a Raspberry Pi.  
   - Debugged and tested software functionalities to ensure system stability.  
   - Maintained project documentation and contributed to code reviews to uphold coding standards and best practices.  
-- **Warlocks 1507 FRC Team — Student President | Lead Software | Drive Coach (Sep 2021 – Apr 2025)**  
+- **Warlocks 1507 FRC Team — Student President | Lead Software | Drive Coach (Sep 2021 – Apr 2025)**  
   - Led 30+ members as Team President, overseeing mechanical, electrical and programming subteams while managing overall team operations.  
   - Served as Lead Software Developer, managing robot control systems, autonomous programming and sensor integration in C++.  
   - Acted as on‑field Drive Coach and Lead Strategist, collaborating with alliance partners to ensure match success and competitive performance.  
@@ -41,9 +40,7 @@ Aspiring software engineer with experience in Python programming and debugging s
 I am in the early stages of my open‑source journey and plan to contribute to community projects soon. I’m particularly interested in robotics simulations and educational tools. If you’re looking for collaborators or have suggestions for impactful projects, feel free to reach out!  
 
 ## 📫 Contact Me  
-- **Phone:** (716)-344-5006  
-- **Email:** trentmac06@gmail.com  
 - **LinkedIn:** [linkedin.com/in/trent-mccarthy-6abba3366](https://linkedin.com/in/trent-mccarthy-6abba3366)  
 - **GitHub:** [github.com/tmac006](https://github.com/tmac006)  
 
-Thanks for stopping by!
+Thanks for stopping by! 
