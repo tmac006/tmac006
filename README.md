@@ -1,13 +1,12 @@
 # Hi, My name is Trent McCarthy 
-I’m an aspiring software engineer from Lockport, NY with a passion for robotics, education and software development. My experience spans programming in Python, C/C++, and Java; leading an FRC robotics team; and building applications that interact with hardware. I’m eager to apply my analytical skills and collaborate with cross‑functional teams to develop innovative products.  
+I'm an aspiring software engineering from New York with a passion for robotics, STEM education, embeded systems, and software developments. I have lead cross functional teams in building applications that interact with hardware. I am eager to apply my analytical skills and collaborate with cross functional teams to develop innovative products.
 
 ## Career Objective  
 Aspiring software engineer with experience in Python programming and debugging seeks Engineering / Software Development internship roles. Proficient in teamwork and project collaboration, having led an FRC robotics team and contributed to software development projects. Eager to apply analytical skills and coordinate cross‑functional activities to support product development.  
 
 ##  Education  
 - **University at Buffalo (Buffalo, NY)** – Bachelor of Science in Computer Science (expected May 2029).  
-- **Lockport High School (Lockport, NY)** – High School Diploma with CTE Endorsement (June 2025, GPA 3.8/4.0).  
-
+ 
 ## Experience  
 - **Challenger Learning Center — Technology Educator (Aug 2023 – Present)**  
   - Facilitated hands‑on activities to enhance student engagement through interactive learning modules.  
