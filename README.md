@@ -24,13 +24,11 @@ I'm an aspiring software engineer from New York with a passion for robotics, STE
 
 ## GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=tmac006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=tmac006&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmac006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tmac006&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=tmac006&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmac006&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 ---
 
