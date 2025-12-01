@@ -26,11 +26,9 @@ I'm an aspiring software engineer from New York with a passion for robotics, STE
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmac006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=tmac006&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmac006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tmac006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=tmac006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=tmac006&theme=tokyonight&hide_border=true&background=0D1117&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmac006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
 
@@ -48,40 +46,6 @@ Aspiring software engineer with experience in Python programming and debugging s
 
 ---
 
-## Experience
-
-### Challenger Learning Center — Technology Educator
-**Aug 2023 – Present**
-
-- Facilitated hands-on activities to enhance student engagement through interactive learning modules
-- Developed instructional materials for summer camps, improving participant satisfaction
-- Researched and integrated current technology trends into curriculum, elevating students' analytical skills
-
-### PnP3 Electronics — Software Engineering Intern
-**Aug 2024 – Jan 2025**
-
-- Designed and developed a communication application for a calibration board test stand, enabling reliable hardware interaction and data exchange
-- Created a Python-based control application for managing hardware operations on a Raspberry Pi
-- Debugged and tested software functionalities to ensure system stability
-- Maintained project documentation and contributed to code reviews to uphold coding standards and best practices
-
-### Warlocks 1507 FRC Team — Student President | Lead Software | Drive Coach
-**Sep 2021 – Apr 2025**
-
-- Led 30+ members as Team President, overseeing mechanical, electrical and programming subteams while managing overall team operations
-- Served as Lead Software Developer, managing robot control systems, autonomous programming and sensor integration in C++
-- Acted as on-field Drive Coach and Lead Strategist, collaborating with alliance partners to ensure match success and competitive performance
-- Bridged communication between subteams and introduced an iterative design process, streamlining the design–build–test workflow to improve robot reliability, reduce build errors and enhance team cohesion
-- Developed mechanical and CAD proficiency, learning fabrication and AutoCAD design principles
-
-### Independent Project — "Mosim" FRC Simulation Game
-**Aug 2025 – Present**
-
-- Active developer of the Mosim FRC simulation game, focused on improving gameplay mechanics and enhancing the player experience
-- Designed and implemented features to optimize performance, fix bugs and expand interactive elements
-- Developed and maintained the project's website, improving accessibility, visual appeal and user engagement
-
----
 
 ## Skills & Technologies
 
@@ -90,6 +54,9 @@ Aspiring software engineer with experience in Python programming and debugging s
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Engineering & Technical
 - Mechanical aptitude
@@ -140,6 +107,5 @@ I currently do not have any open source contributions, however I plan on adding 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trent-mccarthy-6abba3366)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmac006)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
