@@ -22,16 +22,6 @@ I'm an aspiring software engineer from New York with a passion for robotics, STE
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmac006&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=tmac006&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmac006&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
-</p>
-
----
-
 ## Career Objective
 
 Aspiring software engineer with experience in Python programming and debugging seeks Engineering / Software Development internship roles. Proficient in teamwork and project collaboration, having led an FRC robotics team and contributed to software development projects. Eager to apply analytical skills and coordinate cross-functional activities to support product development.
